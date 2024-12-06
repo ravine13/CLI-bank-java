@@ -31,7 +31,7 @@ cd Banking
 javac Account.java Bank.java Main.java
 
 ## Run the application:
-java Main
+java Main: 
 You can follow the on-screen prompts to interact with the application.
 
 ## Structure
